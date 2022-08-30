@@ -1,3 +1,5 @@
+// single source sortest path algorithm
+
 void solve() {
     int n, m;
     cin>>n>>m;
